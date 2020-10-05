@@ -90,7 +90,8 @@ public class AddDress {
 
 
         System.out.println("select gender: Mrs");
-        sleep(6000);
+        //sleep(6000);
+        new WebDriverWait(driver,10).until(ExpectedConditions.visibilityOfAllElementsLocatedBy(By.xpath("//input[@id='id_gender2' and @value='2']")));
         WebElement gender=driver.findElement(By.xpath("//input[@id='id_gender2' and @value='2']"));
         gender.click();
 
@@ -164,6 +165,9 @@ public class AddDress {
         System.out.println("Click register button");
         WebElement register=driver.findElement(By.xpath("//button[@id='submitAccount']"));
         register.click();
+
+        sleep(3);
+        driver.quit();
 
 
     }
