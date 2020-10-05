@@ -166,6 +166,7 @@ public class AddDress {
         WebElement register=driver.findElement(By.xpath("//button[@id='submitAccount']"));
         register.click();
 
+        System.out.println("quit");
         sleep(3);
         driver.quit();
 
