@@ -23,6 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="242c0e1b-3f3b-4667-9277-701198289f6f" name="Default Changelist" comment="commit all">
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,12 +49,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1iLfpePSOpJy4rr3wS8THb5mQZn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -140,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601881494887</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit all">
+      <created>1601883430910</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601883430910</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +166,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit all" />
     <option name="LAST_COMMIT_MESSAGE" value="commit all" />
   </component>
@@ -171,22 +183,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="559" y="261" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1601805406464" />
-    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1601880902164">
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom" timestamp="1601906617219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601880902164" />
-    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1601880902164">
+    <state width="1323" height="215" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601906617219" />
+    <state width="1323" height="215" key="GridCell.Tab.0.center" timestamp="1601906617219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601880902164" />
-    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1601880902163">
+    <state width="1323" height="215" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601906617219" />
+    <state width="1323" height="215" key="GridCell.Tab.0.left" timestamp="1601906617218">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601880902163" />
-    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1601880902164">
+    <state width="1323" height="215" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601906617218" />
+    <state width="1323" height="215" key="GridCell.Tab.0.right" timestamp="1601906617219">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601880902164" />
+    <state width="1323" height="215" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601906617219" />
     <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1601779973165">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -195,9 +207,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1601804026982" />
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601881504725">
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2" timestamp="1601883582696">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601881504725" />
+    <state x="275" y="96" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601883582696" />
   </component>
 </project>
